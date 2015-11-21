@@ -1,0 +1,5 @@
+name: leaflet_fullscreen
+dependencies:
+  browser: any
+  leaflet:
+    path: ../leaflet
