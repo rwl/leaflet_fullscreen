@@ -1,5 +1,8 @@
 name: leaflet_fullscreen
+version: 0.0.1
+author: Richard Lincoln <r.w.lincoln@gmail.com>
+description: HTML5 fullscreen control for Leaflet
+homepage: https://github.com/rwl/leaflet.dart
 dependencies:
   browser: any
-  leaflet:
-    path: ../leaflet
+  leaflet: '>=0.0.1 <0.1.0'
